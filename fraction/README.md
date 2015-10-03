@@ -10,7 +10,7 @@
 * -k int : k-base system
 
 ####Examples
-java -jar fraction.jar -a -10 -b -1 -k 10
-java -jar fraction.jar -a 5 -b 2 -k 10
-java -jar fraction.jar -a 1 -b 25 -k 16
+    java -jar fraction.jar -a -10 -b -1 -k 10
+    java -jar fraction.jar -a 5 -b 2 -k 10
+    java -jar fraction.jar -a 1 -b 25 -k 16
 

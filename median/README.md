@@ -9,7 +9,7 @@
 * -second Double[] : elements of second array
 
 ####Examples
-java -jar median.jar -first 1 12 15 26 38 -second 2 13 17.32 30 45.2
-java -jar median.jar -first 1 12 -second 2 13
-java -jar median.jar -first 5 6 7 8 -second 1 2 3 4
+    java -jar median.jar -first 1 12 15 26 38 -second 2 13 17.32 30 45.2
+    java -jar median.jar -first 1 12 -second 2 13
+    java -jar median.jar -first 5 6 7 8 -second 1 2 3 4
 
